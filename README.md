@@ -4,10 +4,9 @@
 ![Intro](/docs/intro.png)
 
 ### Description:
-We are not Japanese or translators, but we decided to pick this up as a side project due to a huge amount of requests.
-Since our snack world translation has been working out so well, we decided to pick up an already started translated project.
+We are not Japanese or translators, but we decided to pick this up as a side project.
+We aim to hopefully get around to finishing the already almost completed translated version.
 
-This is our second translation attempt and we will do the best we can.
 If you have any questions feel free to contact me.
 
 ## Version: 1.3.0
